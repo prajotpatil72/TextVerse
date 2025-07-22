@@ -35,7 +35,7 @@ Built with:
 
 ## 🏗️ Project Structure
 ```
-
+```
 TextVerse/
 ├── backend/                \# FastAPI + LangChain backend
 │   ├── main.py             \# API + RAG setup
@@ -46,8 +46,8 @@ TextVerse/
 ├── assets/                 \# (optional) screenshots and images
 ├── faiss\_index/            \# Precomputed FAISS index
 └── README.md
+```
 
-````
 ---
 
 ## 🚀 Getting Started
